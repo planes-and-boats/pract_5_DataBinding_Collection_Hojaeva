@@ -3,28 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:formpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\formpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,6 +17,22 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:training.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:exercise.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:bin\\Debug\\net8.0-windows\\data.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|c:\\users\\st310-06\\documents\\hojaeva pr-31\\pract_5_hojaeva\\jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE6C571A-6FD8-40DA-BB43-804EF0FC3844}|pract_5_Hojaeva.csproj|solutionrelative:jsonserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,41 +42,28 @@
       "DocumentGroups": [
         {
           "DockedHeight": 431,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ListPage.xaml",
-              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml",
-              "RelativeDocumentMoniker": "ListPage.xaml",
-              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml",
-              "RelativeToolTip": "ListPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2026-10-23T09:51:29.705Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "data.json",
-              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json",
-              "RelativeDocumentMoniker": "bin\\Debug\\net8.0-windows\\data.json",
-              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json",
-              "RelativeToolTip": "bin\\Debug\\net8.0-windows\\data.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-10-30T07:34:10.56Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
+              "Title": "data.json",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json",
+              "RelativeDocumentMoniker": "bin\\Debug\\net8.0-windows\\data.json",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\bin\\Debug\\net8.0-windows\\data.json",
+              "RelativeToolTip": "bin\\Debug\\net8.0-windows\\data.json",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAADcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-30T08:12:13.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "JsonServer.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\JsonServer.cs",
               "RelativeDocumentMoniker": "JsonServer.cs",
@@ -89,19 +76,45 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml",
+              "RelativeDocumentMoniker": "ListPage.xaml",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml",
+              "RelativeToolTip": "ListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T09:51:29.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "ListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml.cs",
+              "RelativeToolTip": "ListPage.xaml.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwCgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T10:13:08.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "FormPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\FormPage.xaml.cs",
               "RelativeDocumentMoniker": "FormPage.xaml.cs",
               "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\FormPage.xaml.cs",
               "RelativeToolTip": "FormPage.xaml.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAqwE4AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAqwGsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T10:35:26.974Z"
+              "WhenOpened": "2026-10-23T10:35:26.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "FormPage.xaml",
               "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\FormPage.xaml",
               "RelativeDocumentMoniker": "FormPage.xaml",
@@ -114,37 +127,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ListPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml.cs",
-              "RelativeDocumentMoniker": "ListPage.xaml.cs",
-              "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\ListPage.xaml.cs",
-              "RelativeToolTip": "ListPage.xaml.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAwCgAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T10:13:08.21Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Training.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\Training.cs",
               "RelativeDocumentMoniker": "Training.cs",
               "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\Training.cs",
               "RelativeToolTip": "Training.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAhwA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAADwvwwAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-23T09:24:36.782Z"
+              "WhenOpened": "2026-10-23T09:24:36.782Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Exercise.cs",
               "DocumentMoniker": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\Exercise.cs",
               "RelativeDocumentMoniker": "Exercise.cs",
               "ToolTip": "C:\\Users\\st310-06\\Documents\\hojaeva pr-31\\pract_5_Hojaeva\\Exercise.cs",
               "RelativeToolTip": "Exercise.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBAAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-23T09:26:32.408Z",
               "EditorCaption": ""

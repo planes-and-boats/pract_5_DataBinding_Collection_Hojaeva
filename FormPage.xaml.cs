@@ -63,8 +63,7 @@ namespace pract_5_Hojaeva
 
         private void btnSave_Click(object sender, RoutedEventArgs e)
         {
-            if (_training.Name == string.Empty || _training.Type == string.Empty
-                || _training.Date == DateTime.MinValue)
+            if (_training.Name == string.Empty || _training.Type == string.Empty)
             {
                 MessageBox.Show("Введите все данные об тренировке.", "Внимание");
                 return;

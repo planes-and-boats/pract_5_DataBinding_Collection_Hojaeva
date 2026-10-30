@@ -35,7 +35,7 @@
   {
     "ID": 2,
     "Name": "red",
-    "Date": "2026-10-30T11:38:28.3107034+05:00",
+    "Date": "2026-10-21T00:00:00",
     "Type": "type 3",
     "Exercises": [
       {
@@ -49,8 +49,44 @@
         "Sets": 3,
         "SetDurationMinutes": 2,
         "ExerciseDurationMinutes": 6
+      },
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435 3",
+        "Sets": 4,
+        "SetDurationMinutes": 10,
+        "ExerciseDurationMinutes": 40
       }
     ],
-    "WorkoutDurationMinutes": 26
+    "WorkoutDurationMinutes": 66
+  },
+  {
+    "ID": 3,
+    "Name": "mw32",
+    "Date": "2026-10-23T00:00:00",
+    "Type": "type 4",
+    "Exercises": [
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435 3",
+        "Sets": 40,
+        "SetDurationMinutes": 1,
+        "ExerciseDurationMinutes": 40
+      }
+    ],
+    "WorkoutDurationMinutes": 40
+  },
+  {
+    "ID": 4,
+    "Name": "for 5",
+    "Date": "2026-10-30T13:09:56.1414775+05:00",
+    "Type": "type 56",
+    "Exercises": [
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435 3",
+        "Sets": 4,
+        "SetDurationMinutes": 12,
+        "ExerciseDurationMinutes": 48
+      }
+    ],
+    "WorkoutDurationMinutes": 48
   }
 ]
