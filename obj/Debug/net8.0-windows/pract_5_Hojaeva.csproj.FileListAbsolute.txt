@@ -1,0 +1,48 @@
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.exe
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.deps.json
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.runtimeconfig.json
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.dll
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.pdb
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\FormPage.g.cs
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\ListPage.g.cs
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\FormPage.baml
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\ListPage.baml
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.g.resources
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.dll
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\refint\pract_5_Hojaeva.dll
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.pdb
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\Бред\ТРПО\5\pract_5_Hojaeva\obj\Debug\net8.0-windows\ref\pract_5_Hojaeva.dll
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.exe
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.deps.json
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.runtimeconfig.json
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.dll
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\bin\Debug\net8.0-windows\pract_5_Hojaeva.pdb
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\FormPage.g.cs
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\ListPage.g.cs
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva_MarkupCompile.cache
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva_MarkupCompile.lref
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\FormPage.baml
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\ListPage.baml
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.g.resources
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.AssemblyInfoInputs.cache
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.AssemblyInfo.cs
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.csproj.CoreCompileInputs.cache
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.dll
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\refint\pract_5_Hojaeva.dll
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.pdb
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.genruntimeconfig.cache
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\ref\pract_5_Hojaeva.dll

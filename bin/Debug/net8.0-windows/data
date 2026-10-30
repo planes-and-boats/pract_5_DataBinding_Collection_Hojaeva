@@ -1,0 +1,56 @@
+[
+  {
+    "ID": 1,
+    "Name": "45",
+    "Date": "2026-10-23T23:54:16.5173964+05:00",
+    "Type": "12/23",
+    "Exercises": [
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u04351",
+        "Sets": 2,
+        "SetDurationMinutes": 12,
+        "ExerciseDurationMinutes": 24
+      },
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u04352",
+        "Sets": 12,
+        "SetDurationMinutes": 30,
+        "ExerciseDurationMinutes": 360
+      },
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435",
+        "Sets": 0,
+        "SetDurationMinutes": 0,
+        "ExerciseDurationMinutes": 0
+      },
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435",
+        "Sets": 0,
+        "SetDurationMinutes": 0,
+        "ExerciseDurationMinutes": 0
+      }
+    ],
+    "WorkoutDurationMinutes": 384
+  },
+  {
+    "ID": 2,
+    "Name": "red",
+    "Date": "2026-10-30T11:38:28.3107034+05:00",
+    "Type": "type 3",
+    "Exercises": [
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435 1",
+        "Sets": 20,
+        "SetDurationMinutes": 1,
+        "ExerciseDurationMinutes": 20
+      },
+      {
+        "Name": "\u0443\u043F\u0440\u0430\u0436\u043D\u0435\u043D\u0438\u0435 2",
+        "Sets": 3,
+        "SetDurationMinutes": 2,
+        "ExerciseDurationMinutes": 6
+      }
+    ],
+    "WorkoutDurationMinutes": 26
+  }
+]
