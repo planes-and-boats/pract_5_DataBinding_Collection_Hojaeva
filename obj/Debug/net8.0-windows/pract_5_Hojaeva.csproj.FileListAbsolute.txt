@@ -46,3 +46,4 @@ C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windo
 C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.pdb
 C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.genruntimeconfig.cache
 C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\ref\pract_5_Hojaeva.dll
+C:\Users\st310-06\Documents\hojaeva pr-31\pract_5_Hojaeva\obj\Debug\net8.0-windows\pract_5_Hojaeva.sourcelink.json

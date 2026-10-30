@@ -11,7 +11,7 @@ namespace pract_5_Hojaeva
 {
     internal class JsonServer
     {
-        static private string file = "data";
+        static private string file = "data.json";
 
         static public void Save(ObservableCollection<Training> training)
         {
